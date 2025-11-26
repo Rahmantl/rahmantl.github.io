@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Erasmus Researcher** (Sep. 2024 – Aug. 2025)
+  * *Ruhr University Bochum, Germany (Machine Learning Group)*
+  * **Thesis:** On the Computation of Relative Flatness in Convolutional Layers
+  * **Supervisors:** Prof. Dr. Michael Kamp (TU Dortmund), Dr. Linara Adilova (TU Dortmund)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Master of Science in Mathematics** (Oct. 2022 – Sep. 2025)
+  * *University of Padova, Italy*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Master of Science in Applied Mathematics (Optimization)** (Sep. 2016 – Sep. 2018)
+  * *University of Guilan, Iran*
+  * **Thesis:** Matrix completion using convex optimization
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Bachelor of Science in Mathematics and Its Application** (Sep. 2012 – Jun. 2016)
+  * *University of Guilan, Iran*
 
-Publications
+Research Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Optimization
+* Machine Learning (Deep Learning)
+* Mathematical Modeling, Statistics
+
+Professional Experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Team Manager** (2020-2021)
+  * *BehsaTamin (Startup)*
+  * Project manager and leadership team member. Tasks included programming, data analysis, maintaining website content, and assisting the marketing team.
+
+* **Research Assistant** (2019-2020)
+  * *University of Guilan, Dept. of Mathematics*
+  * Teaching assistant for Optimization and Statistical Methods. Conducted research resulting in one paper.
+
+* **Trainee** (2017-2018)
+  * *GilBiostat (Advisor: Prof. Dr. Ehsan Kazemnezhad Leyli)*
+  * Collaborated as a research assistant and data analyst using SPSS.
+
+
+
+
+
+
+
