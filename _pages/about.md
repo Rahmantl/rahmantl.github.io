@@ -15,4 +15,4 @@ My academic interests lie at the intersection of Mathematics and Machine Learnin
 
 ## Contact
 * **Email:** Rahman.taleghanizolpirani@studenti.unipd.it
-* **Location:** Padova, Italy
+
