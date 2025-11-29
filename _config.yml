@@ -27,7 +27,7 @@ author:
   name             : "Rahman Taleghani"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. Mathematics graduate from University of Padova & Ruhr University Bochum (Chair of ML)."
-  location         : "Padova, Italy"
+  location         : #"Padova, Italy"
   #employer         : "Red Brick University"
   uri              : "https://rahmantl.github.io" # URL
   email            : "Rahman.taleghanizolpirani@studenti.unipd.it" 
