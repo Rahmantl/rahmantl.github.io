@@ -28,20 +28,6 @@ Education
   * *University of Guilan, Iran*
 
 
-Professional Experience
-======
-* **Team Manager** (2020-2021)
-  * *BehsaTamin (Startup)*
-  * Project manager and leadership team member. Tasks included programming, data analysis, maintaining website content, and assisting the marketing team.
-
-* **Research Assistant** (2019-2020)
-  * *University of Guilan, Dept. of Mathematics*
-  * Teaching assistant for Optimization and Statistical Methods. Conducted research resulting in one paper.
-
-* **Trainee** (2017-2018)
-  * *GilBiostat (Advisor: Prof. Dr. Ehsan Kazemnezhad Leyli)*
-  * Collaborated as a research assistant with medical student and data analyst using SPSS.
-
 
 
 
