@@ -22,15 +22,11 @@ Education
 * **Master of Science in Applied Mathematics (Optimization)** (Sep. 2016 – Sep. 2018)
   * *University of Guilan, Iran*
   * **Thesis:** Matrix completion using convex optimization
+  * **Supervisors:** Prof. Dr. Maziar Salahi
 
 * **Bachelor of Science in Mathematics and Its Application** (Sep. 2012 – Jun. 2016)
   * *University of Guilan, Iran*
 
-Research Interests
-======
-* Optimization
-* Machine Learning (Deep Learning)
-* Mathematical Modeling, Statistics
 
 Professional Experience
 ======
@@ -44,7 +40,7 @@ Professional Experience
 
 * **Trainee** (2017-2018)
   * *GilBiostat (Advisor: Prof. Dr. Ehsan Kazemnezhad Leyli)*
-  * Collaborated as a research assistant and data analyst using SPSS.
+  * Collaborated as a research assistant with medical student and data analyst using SPSS.
 
 
 
