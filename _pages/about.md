@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi!"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Rahman, a junior researcher working at the intersection of optimization, deep learning theory, and applied mathematics. I recently completed my Master of Science in Mathematics at the Department of Mathematics “Tullio Levi-Civita” of the University of Padova, where I focused on the theoretical foundations of modern learning algorithms. As an Erasmus researcher in the Chair for Machine Learning at Ruhr University Bochum, I conducted my master’s thesis “On the Computation of Relative Flatness in Convolutional Layers,” supervised by Prof. Dr. Michael Kamp and Dr. Linara Adilova, in close collaboration with the group of Prof. Dr. Asja Fischer.​
+Hi! I am Rahman, a junior researcher working at the intersection of optimization, deep learning theory, and applied mathematics. I recently completed my Master of Science in Mathematics at the Department of Mathematics “Tullio Levi-Civita” of the University of Padova, where I focused on the theoretical foundations of modern learning algorithms. As an Erasmus researcher in the Chair for Machine Learning at Ruhr University Bochum, I conducted my master’s thesis “On the Computation of Relative Flatness in Convolutional Layers,” supervised by Prof. Dr. Michael Kamp and Dr. Linara Adilova, in close collaboration with the group of Prof. Dr. Asja Fischer.​
 
 My academic path began at the University of Guilan in Iran, where I obtained both my Bachelor of Science in Mathematics and Its Applications and a first Master of Science in Applied Mathematics (Optimization) under the supervision of Prof. Dr. Maziar Salahi, working on matrix completion via convex optimization. 
 ​
